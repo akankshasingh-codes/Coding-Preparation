@@ -1,0 +1,42 @@
+# Coding Preparation
+
+Welcome to my coding preparation repository!
+
+This repository contains my solutions to Data Structures and Algorithms (DSA) problems that I solve while preparing for software engineering interviews. I primarily use C++ and regularly practice on LeetCode.
+
+The purpose of this repository is to track my progress, improve problem-solving skills, and maintain a well-organized collection of solutions for future reference.
+
+## Topics Covered
+
+- Arrays
+- Strings
+- Hashing
+- Two Pointers
+- Sliding Window
+- Linked Lists
+- Stack
+- Queue
+- Trees
+- Binary Search Trees
+- Heaps
+- Graphs
+- Dynamic Programming
+- Greedy Algorithms
+- Backtracking
+- Bit Manipulation
+- Binary Search
+- Tries
+
+## Language   - C++
+
+## Platform   - LeetCode
+
+## Goals
+
+- Build strong problem-solving skills.
+- Practice DSA consistently.
+- Prepare for technical interviews.
+- Keep track of coding progress.
+- Learn efficient and optimized approaches.
+
+Thank you for visiting my repository!
