@@ -47,8 +47,10 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0162-find-peak-element) |
+| [0875-koko-eating-bananas](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0162-find-peak-element) |
+| [0875-koko-eating-bananas](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
