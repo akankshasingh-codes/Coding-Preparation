@@ -53,4 +53,12 @@ Thank you for visiting my repository!
 | ------- |
 | [0162-find-peak-element](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0875-koko-eating-bananas) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
