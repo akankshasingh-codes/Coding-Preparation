@@ -48,6 +48,7 @@ Thank you for visiting my repository!
 | ------- |
 | [0162-find-peak-element](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0875-koko-eating-bananas) |
+| [0014-longest-common-prefix](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0014-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Thank you for visiting my repository!
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1021-remove-outermost-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0151-reverse-words-in-a-string) |
+| [0014-longest-common-prefix](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0014-longest-common-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -66,4 +68,8 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0151-reverse-words-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
