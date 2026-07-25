@@ -57,8 +57,13 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1021-remove-outermost-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1021-remove-outermost-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
