@@ -40,3 +40,15 @@ The purpose of this repository is to track my progress, improve problem-solving 
 - Learn efficient and optimized approaches.
 
 Thank you for visiting my repository!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0162-find-peak-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0162-find-peak-element) |
+<!---LeetCode Topics End-->
