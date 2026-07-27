@@ -1,16 +1,16 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        //brute force
-        int ans = 0;
+        //sorting 
+       
 
         int n = nums.size();
-        for(int i =0;i<n;i++)
-        {
-            for(int j = i+1;j<n; j++)
-            ans = max( ans, (nums[i]-1)*(nums[j]-1));
-        }
-        return ans;
+
+        sort(nums.begin(), nums.end());
+       return ( nums[n-2]-1)*(nums[n-1]-1);
+
+       //t.c = 0(nlogn)
+       //s.c = 0(1)
         
     }
 };
