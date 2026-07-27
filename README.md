@@ -50,6 +50,7 @@ Thank you for visiting my repository!
 | [0875-koko-eating-bananas](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0875-koko-eating-bananas) |
 | [0014-longest-common-prefix](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0014-longest-common-prefix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,4 +87,9 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
