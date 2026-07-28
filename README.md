@@ -65,6 +65,7 @@ Thank you for visiting my repository!
 | [0151-reverse-words-in-a-string](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0151-reverse-words-in-a-string) |
 | [0014-longest-common-prefix](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0205-isomorphic-strings) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -90,8 +91,13 @@ Thank you for visiting my repository!
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
