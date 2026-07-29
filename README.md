@@ -66,6 +66,7 @@ Thank you for visiting my repository!
 | [0014-longest-common-prefix](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0205-isomorphic-strings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
 |  |
 | ------- |
@@ -82,10 +83,12 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0205-isomorphic-strings) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0628-maximum-product-of-three-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -100,4 +103,9 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
