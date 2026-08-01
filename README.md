@@ -52,6 +52,7 @@ Thank you for visiting my repository!
 | [0628-maximum-product-of-three-numbers](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0486-predict-the-winner](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Thank you for visiting my repository!
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0628-maximum-product-of-three-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [0486-predict-the-winner](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
@@ -108,4 +110,16 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
