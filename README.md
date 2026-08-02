@@ -71,6 +71,7 @@ Thank you for visiting my repository!
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [0008-string-to-integer-atoi](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0008-string-to-integer-atoi) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [0022-generate-parentheses](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Thank you for visiting my repository!
 | ------- |
 | [0486-predict-the-winner](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0877-stone-game) |
+| [0022-generate-parentheses](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0022-generate-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -134,6 +136,7 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [0022-generate-parentheses](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
