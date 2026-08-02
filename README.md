@@ -69,6 +69,7 @@ Thank you for visiting my repository!
 | [0205-isomorphic-strings](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0205-isomorphic-strings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [0008-string-to-integer-atoi](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0008-string-to-integer-atoi) |
 ## Stack
 |  |
 | ------- |
