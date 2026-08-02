@@ -94,6 +94,7 @@ Thank you for visiting my repository!
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [0486-predict-the-winner](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0877-stone-game) |
+| [1922-count-good-numbers](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1922-count-good-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0486-predict-the-winner) |
+| [1922-count-good-numbers](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1922-count-good-numbers) |
 ## Game Theory
 |  |
 | ------- |
