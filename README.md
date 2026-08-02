@@ -53,6 +53,7 @@ Thank you for visiting my repository!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0486-predict-the-winner](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Thank you for visiting my repository!
 | [0628-maximum-product-of-three-numbers](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0628-maximum-product-of-three-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [0486-predict-the-winner](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +116,7 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -122,4 +125,5 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
