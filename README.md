@@ -54,6 +54,7 @@ Thank you for visiting my repository!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0486-predict-the-winner](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1406-stone-game-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Thank you for visiting my repository!
 | [0486-predict-the-winner](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1922-count-good-numbers) |
+| [1406-stone-game-iii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1406-stone-game-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Thank you for visiting my repository!
 | [0486-predict-the-winner](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0877-stone-game) |
 | [0022-generate-parentheses](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0022-generate-parentheses) |
+| [1406-stone-game-iii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -132,6 +135,7 @@ Thank you for visiting my repository!
 | ------- |
 | [0486-predict-the-winner](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -141,4 +145,12 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
