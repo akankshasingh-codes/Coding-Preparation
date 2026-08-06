@@ -101,6 +101,7 @@ Thank you for visiting my repository!
 | [0877-stone-game](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1922-count-good-numbers) |
 | [1406-stone-game-iii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
 | ------- |
@@ -168,4 +169,8 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
