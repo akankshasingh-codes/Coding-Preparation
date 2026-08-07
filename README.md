@@ -57,6 +57,7 @@ Thank you for visiting my repository!
 | [1406-stone-game-iii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3731-find-missing-elements) |
 | [0455-assign-cookies](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0455-assign-cookies) |
+| [1710-maximum-units-on-a-truck](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1710-maximum-units-on-a-truck) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Thank you for visiting my repository!
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3731-find-missing-elements) |
 | [0455-assign-cookies](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0455-assign-cookies) |
+| [1710-maximum-units-on-a-truck](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1710-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0455-assign-cookies) |
+| [1710-maximum-units-on-a-truck](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1710-maximum-units-on-a-truck) |
 ## Quicksort
 |  |
 | ------- |
