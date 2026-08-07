@@ -56,6 +56,7 @@ Thank you for visiting my repository!
 | [0877-stone-game](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3731-find-missing-elements) |
+| [0455-assign-cookies](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0151-reverse-words-in-a-string) |
+| [0455-assign-cookies](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
 | ------- |
@@ -109,6 +111,7 @@ Thank you for visiting my repository!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3731-find-missing-elements) |
+| [0455-assign-cookies](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -173,4 +176,12 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3345-smallest-divisible-digit-product-i) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
