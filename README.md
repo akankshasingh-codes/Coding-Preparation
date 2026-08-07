@@ -58,6 +58,7 @@ Thank you for visiting my repository!
 | [3731-find-missing-elements](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3731-find-missing-elements) |
 | [0455-assign-cookies](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1710-maximum-units-on-a-truck) |
+| [0860-lemonade-change](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0860-lemonade-change) |
 ## Binary Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@ Thank you for visiting my repository!
 | ------- |
 | [0455-assign-cookies](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1710-maximum-units-on-a-truck) |
+| [0860-lemonade-change](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
