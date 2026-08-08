@@ -77,6 +77,7 @@ Thank you for visiting my repository!
 | [0008-string-to-integer-atoi](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0008-string-to-integer-atoi) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [0022-generate-parentheses](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0022-generate-parentheses) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Thank you for visiting my repository!
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0455-assign-cookies) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Trie
 |  |
 | ------- |
@@ -135,6 +137,7 @@ Thank you for visiting my repository!
 | [0877-stone-game](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0877-stone-game) |
 | [0022-generate-parentheses](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0022-generate-parentheses) |
 | [1406-stone-game-iii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -185,6 +188,7 @@ Thank you for visiting my repository!
 | [0455-assign-cookies](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1710-maximum-units-on-a-truck) |
 | [0860-lemonade-change](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0860-lemonade-change) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Quicksort
 |  |
 | ------- |
