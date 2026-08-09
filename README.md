@@ -59,6 +59,7 @@ Thank you for visiting my repository!
 | [0455-assign-cookies](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1710-maximum-units-on-a-truck) |
 | [0860-lemonade-change](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0860-lemonade-change) |
+| [1140-stone-game-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1140-stone-game-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ Thank you for visiting my repository!
 | [1922-count-good-numbers](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1922-count-good-numbers) |
 | [1406-stone-game-iii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3345-smallest-divisible-digit-product-i) |
+| [1140-stone-game-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1140-stone-game-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +140,7 @@ Thank you for visiting my repository!
 | [0022-generate-parentheses](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0022-generate-parentheses) |
 | [1406-stone-game-iii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [1140-stone-game-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1140-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -149,6 +152,7 @@ Thank you for visiting my repository!
 | [0486-predict-the-winner](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1406-stone-game-iii) |
+| [1140-stone-game-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1140-stone-game-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -162,10 +166,12 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1406-stone-game-iii) |
+| [1140-stone-game-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1406-stone-game-iii) |
+| [1140-stone-game-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1140-stone-game-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -193,4 +199,8 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0455-assign-cookies) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
