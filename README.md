@@ -60,6 +60,7 @@ Thank you for visiting my repository!
 | [1710-maximum-units-on-a-truck](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1710-maximum-units-on-a-truck) |
 | [0860-lemonade-change](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0860-lemonade-change) |
 | [1140-stone-game-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1140-stone-game-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/008-Akanksha/Coding_Prepration/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Thank you for visiting my repository!
 | [0205-isomorphic-strings](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0205-isomorphic-strings) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3731-find-missing-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/008-Akanksha/Coding_Prepration/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +122,7 @@ Thank you for visiting my repository!
 | [3731-find-missing-elements](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3731-find-missing-elements) |
 | [0455-assign-cookies](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1710-maximum-units-on-a-truck) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/008-Akanksha/Coding_Prepration/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
