@@ -80,6 +80,7 @@ Thank you for visiting my repository!
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [0022-generate-parentheses](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0022-generate-parentheses) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Thank you for visiting my repository!
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3731-find-missing-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/008-Akanksha/Coding_Prepration/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -219,4 +221,8 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
