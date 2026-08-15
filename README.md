@@ -61,6 +61,7 @@ Thank you for visiting my repository!
 | [0860-lemonade-change](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0860-lemonade-change) |
 | [1140-stone-game-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1140-stone-game-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/008-Akanksha/Coding_Prepration/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
 | ------- |
