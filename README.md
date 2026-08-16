@@ -62,6 +62,7 @@ Thank you for visiting my repository!
 | [1140-stone-game-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1140-stone-game-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/008-Akanksha/Coding_Prepration/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [2029-stone-game-ix](https://github.com/008-Akanksha/Coding_Prepration/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Thank you for visiting my repository!
 | [3345-smallest-divisible-digit-product-i](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3345-smallest-divisible-digit-product-i) |
 | [1140-stone-game-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/008-Akanksha/Coding_Prepration/tree/master/2029-stone-game-ix) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +137,7 @@ Thank you for visiting my repository!
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [2029-stone-game-ix](https://github.com/008-Akanksha/Coding_Prepration/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
 | ------- |
@@ -162,6 +165,7 @@ Thank you for visiting my repository!
 | [1406-stone-game-iii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/008-Akanksha/Coding_Prepration/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -178,12 +182,14 @@ Thank you for visiting my repository!
 | [1406-stone-game-iii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/008-Akanksha/Coding_Prepration/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/008-Akanksha/Coding_Prepration/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -207,6 +213,7 @@ Thank you for visiting my repository!
 | [1710-maximum-units-on-a-truck](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1710-maximum-units-on-a-truck) |
 | [0860-lemonade-change](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0860-lemonade-change) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [2029-stone-game-ix](https://github.com/008-Akanksha/Coding_Prepration/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
 | ------- |
@@ -219,6 +226,7 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/008-Akanksha/Coding_Prepration/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
