@@ -66,6 +66,7 @@ Thank you for visiting my repository!
 | [1563-stone-game-v](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1563-stone-game-v) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [1386-cinema-seat-allocation](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1386-cinema-seat-allocation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -245,4 +246,8 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
