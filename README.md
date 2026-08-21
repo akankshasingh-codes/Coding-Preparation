@@ -67,12 +67,14 @@ Thank you for visiting my repository!
 | [3471-find-the-largest-almost-missing-integer](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [1386-cinema-seat-allocation](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0875-koko-eating-bananas) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/008-Akanksha/Coding_Prepration/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
 |  |
 | ------- |
@@ -125,6 +127,7 @@ Thank you for visiting my repository!
 | [1510-stone-game-iv](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/008-Akanksha/Coding_Prepration/tree/master/2029-stone-game-ix) |
 | [1563-stone-game-v](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1563-stone-game-v) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +152,7 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,6 +190,7 @@ Thank you for visiting my repository!
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [1386-cinema-seat-allocation](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Minimax
 |  |
 | ------- |
@@ -250,4 +255,8 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
