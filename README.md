@@ -128,6 +128,7 @@ Thank you for visiting my repository!
 | [2029-stone-game-ix](https://github.com/008-Akanksha/Coding_Prepration/tree/master/2029-stone-game-ix) |
 | [1563-stone-game-v](https://github.com/008-Akanksha/Coding_Prepration/tree/master/1563-stone-game-v) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/008-Akanksha/Coding_Prepration/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
 |  |
 | ------- |
